@@ -25,7 +25,7 @@ Este é um simples jogo em JavaScript onde o jogador deve adivinhar um número s
 
 ## Configuração do Projeto
 Para configurar o projeto localmente, siga estes passos:
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `https://github.com/CGVARGAS/jogo_do_numero_secreto`
 2. Abra o arquivo `index.html` em um navegador.
 
 ## Nota sobre ResponsiveVoice
@@ -35,4 +35,4 @@ Este projeto utiliza a biblioteca [ResponsiveVoice](https://responsivevoice.org/
 Este projeto foi desenvolvido como parte do curso ministrado pela Alura.
 
 ---
-**Nota:** Certifique-se de substituir `seu-usuario` e `seu-repositorio` pelos seus dados reais do GitHub.
+
